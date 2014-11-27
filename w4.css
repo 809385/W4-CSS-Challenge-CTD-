@@ -2,9 +2,15 @@
 /* Sample CSS Document */
 
 #eagleLogo {
-
+	float: right;
 }
-
 h1 {
+    color:red;  
+        
+}
+h2 {
+    color:blue;
+    font-family:cursive;
 
 }
+    
