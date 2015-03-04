@@ -1,6 +1,5 @@
-@charset "UTF-8";
-/* Sample CSS Document */
 
+<<<<<<< HEAD
 body {
     background-color:#9900FF;
 }
@@ -24,3 +23,25 @@ a:hover {
 a {
     color:black
 }
+=======
+
+#eaglelogo {
+	position:right 50px;
+	}
+	
+h1 {
+	color:blue;
+	
+}
+
+.eslrTitle {
+	color: green;
+	font-weight:bold;
+	}
+	
+a:hover {
+	background-color: purple;
+	color:black;
+	font-weight:bold;
+	}
+>>>>>>> FETCH_HEAD
